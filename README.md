@@ -1,2 +1,0 @@
-# JavaScript
-Projetos utilizando JavaScript 
